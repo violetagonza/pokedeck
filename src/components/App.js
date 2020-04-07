@@ -1,6 +1,6 @@
 import React from 'react';
 import PokeList from './PokeList';
-import pokemons from './Data/pokemos';
+import pokemons from './Data/pokemons';
 function App() {
   return (
     <div>
